@@ -1,14 +1,14 @@
-# 📚 Repository Tugas - [Nama Mata Kuliah / Proyek]
+# 📚 Repository Tugas - Daniel Hartono
 
-Repository ini berisi sekumpulan tugas dan pengerjaan proyek untuk mata kuliah **[Nama Mata Kuliah]**.
+Gatau sih.. :D **Gabut miss**.
 
 ---
 
-## 👨‍💻 Informasi Mahasiswa
-* **Nama**: [Nama Lengkap Kamu]
-* **NIM / ID**: [NIM atau ID Kamu]
-* **Kelas**: [Nama Kelas / Paralel]
-* **Dosen / Pengajar**: [Nama Dosen/Instruktur]
+## Info Pemilik
+* **Nama**:  Daniel Hartono
+* **NICK**: ImjustR7
+* **Kelas**: XRPL
+* *Guru Pengajar Mata Pelajaran**: Mss sindy
 
 ---
 
@@ -18,9 +18,9 @@ Berikut adalah daftar folder dan pengerjaan tugas di dalam repository ini:
 
 | Folder / File | Deskripsi Tugas | Status |
 | :--- | :--- | :---: |
-| `Tugas-01/` | Pengerjaan latihan 1 (Penjelasan singkat) | ✅ Selesai |
-| `Tugas-02/` | Pengerjaan latihan 2 (Penjelasan singkat) | ✅ Selesai |
-| `Bot/` | Script/source code utama untuk bot | 🔄 On Progress |
+| `Tugas-06.py/` | Pengerjaan latihan 1  | ✅ Selesai |
+| `Tugas-06.cpp/` | Pengerjaan latihan 1 | ✅ Selesai |
+| `Tugas-06.js/` | Pengerjaan latihan 1 | ✅ Selesai |
 
 ---
 
