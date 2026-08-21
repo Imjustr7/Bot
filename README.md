@@ -8,7 +8,7 @@ Gatau sih.. :D **Gabut miss**.
 * **Nama**:  Daniel Hartono
 * **NICK**: ImjustR7
 * **Kelas**: XRPL
-* *Guru Pengajar Mata Pelajaran**: Mss sindy
+* *Guru Pengajar Mata Pelajaran*: Mss sindy
 
 ---
 
