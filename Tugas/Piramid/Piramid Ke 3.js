@@ -1,6 +1,17 @@
-let rows= 5;
-let i= 1;
+let rows = 5;
+
 do {
-    console.log(" ".repeat(rows-i) + "*".repeat (2*i-1)); 
-    i++;
-} while (i <= rows);
+    let line = "";
+    let j = 1;
+    while (j <= rows) {
+        line += " ";
+        j++;
+    }
+    let k = 1;
+    while (k <= (5 - (rows - 1))) {
+        line += "*";
+        k++;
+    }
+    console.log(line);
+    rows--;
+} while (rows > 0);
