@@ -24,8 +24,3 @@ Berikut adalah daftar folder dan pengerjaan tugas di dalam repository ini:
 
 ---
 
-## 🚀 Cara Menjalankan Project
-
-1. **tes**
-   ```bash
-  Tes143141
