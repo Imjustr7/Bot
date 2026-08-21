@@ -18,14 +18,14 @@ Berikut adalah daftar folder dan pengerjaan tugas di dalam repository ini:
 
 | Folder / File | Deskripsi Tugas | Status |
 | :--- | :--- | :---: |
-| `Tugas-06.py/` | Pengerjaan latihan 1  | ✅ Selesai |
-| `Tugas-06.cpp/` | Pengerjaan latihan 1 | ✅ Selesai |
-| `Tugas-06.js/` | Pengerjaan latihan 1 | ✅ Selesai |
+| `Tugas-06.py/` | Pengerjaan latihan 6  | ✅ Selesai |
+| `Tugas-06.cpp/` | Pengerjaan latihan 6 | ✅ Selesai |
+| `Tugas-06.js/` | Pengerjaan latihan 6 | ✅ Selesai |
 
 ---
 
 ## 🚀 Cara Menjalankan Project
 
-1. **Clone repository ini:**
+1. **tes**
    ```bash
-   git clone [https://github.com/username/repository-kamu.git](https://github.com/username/repository-kamu.git)
+  Tes143141
